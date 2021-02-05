@@ -28,3 +28,11 @@ machine learning models based on the following methods:
 #### Creating an elbow curve to find the best value for K using K-means algorithm
 
 
+  ![Elbow curve](https://user-images.githubusercontent.com/71282697/107097382-af294a80-67c1-11eb-80e6-3c864bc3835a.png)
+  
+  
+#### running the K-means algorithm to predict the K(K=4) clusters for the cryptocurrencies’ data
+
+
+
+
