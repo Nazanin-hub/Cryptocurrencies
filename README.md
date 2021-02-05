@@ -34,5 +34,12 @@ machine learning models based on the following methods:
 #### running the K-means algorithm to predict the K(K=4) clusters for the cryptocurrencies’ data
 
 
+ ![run the K-means](https://user-images.githubusercontent.com/71282697/107097654-573f1380-67c2-11eb-8303-f086f2251b8c.png)
+ 
+ 
+ #### Visualizing the distinct groups that correspond to the three principal components
+ 
+ 
+ 
 
 
