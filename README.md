@@ -19,3 +19,5 @@ machine learning models based on the following methods:
 
 ## Results
 
+#### Reducing the dimensions of the X DataFrame to three principal components using Principal Component Analysis (PCA) algorithm
+
