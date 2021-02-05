@@ -48,6 +48,9 @@ machine learning models based on the following methods:
  #### Creating a table with all the currently tradable cryptocurrencies
  
  
+ ![tradable cryptocurrencies](https://user-images.githubusercontent.com/71282697/107097954-f06e2a00-67c2-11eb-8b7d-88a9d8210e81.png)
  
+ 
+ #### 
 
 
