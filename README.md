@@ -41,5 +41,13 @@ machine learning models based on the following methods:
  
  
  
+ ![3D scatter plot](https://user-images.githubusercontent.com/71282697/107097811-af761580-67c2-11eb-8e3e-473edad9b731.png)
+ 
+ 
+ 
+ #### Creating a table with all the currently tradable cryptocurrencies
+ 
+ 
+ 
 
 
