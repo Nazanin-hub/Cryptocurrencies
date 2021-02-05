@@ -21,3 +21,10 @@ machine learning models based on the following methods:
 
 #### Reducing the dimensions of the X DataFrame to three principal components using Principal Component Analysis (PCA) algorithm
 
+
+  ![PCA](https://user-images.githubusercontent.com/71282697/107097165-30341200-67c1-11eb-8c7b-3ed6e31074d1.png)
+  
+  
+#### Creating an elbow curve to find the best value for K using K-means algorithm
+
+
