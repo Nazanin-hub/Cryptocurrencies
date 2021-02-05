@@ -54,5 +54,7 @@ machine learning models based on the following methods:
  #### Creating a scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class"
  
  
+![hvplot scatter plot](https://user-images.githubusercontent.com/71282697/107098231-9b7ee380-67c3-11eb-9465-d97d7e2b6054.png)
+
 
 
