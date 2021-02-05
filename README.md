@@ -51,6 +51,8 @@ machine learning models based on the following methods:
  ![tradable cryptocurrencies](https://user-images.githubusercontent.com/71282697/107097954-f06e2a00-67c2-11eb-8b7d-88a9d8210e81.png)
  
  
- #### 
+ #### Creating a scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class"
+ 
+ 
 
 
