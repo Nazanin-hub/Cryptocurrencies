@@ -14,7 +14,7 @@ machine learning models based on the following methods:
 
 - Data Source: crypto_data.csv
 
-- Software: Python 3.8.3, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
+- Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 
 ## Results
